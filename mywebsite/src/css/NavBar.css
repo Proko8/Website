@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-evenly;
+  list-style: none;
+  font-size: xx-large;
+  margin-top: 0px;
+  padding: 5px;
+}
+
+.navbar__buttons {
+ text-decoration: none;
+ color: white;
+}
+

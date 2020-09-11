@@ -1,0 +1,9 @@
+.about {
+  display: flex;
+  margin-top: -20%;
+  justify-content: center;
+  font-size: larger;
+  font-weight: 700;
+  text-align: center;
+  color: white;
+}

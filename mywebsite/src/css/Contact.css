@@ -1,0 +1,13 @@
+.contact{
+    font-size: xx-large;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    margin-top: -20%;
+    list-style: none;
+    text-decoration: none;
+}
+
+.contact__list {
+    list-style: none;
+}

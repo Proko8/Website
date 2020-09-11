@@ -1,0 +1,21 @@
+.homepage {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  margin-top: 5%;
+  margin-left: 35%;
+}
+
+.homepage__main {
+  font-size: xx-large;
+  font-weight: 700;
+  text-align: center;
+  color: white;
+}
+
+.homepage__secondary {
+  font-size: larger;
+  font-weight: 700;
+  text-align: center;
+  color: white;
+}
