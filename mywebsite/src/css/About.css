@@ -1,9 +1,19 @@
 .about {
   display: flex;
-  margin-top: -20%;
+  flex-direction: column;
+  margin-top: -22%;
+  margin-left: 0%;
   justify-content: center;
   font-size: larger;
   font-weight: 700;
-  text-align: center;
+  text-align: start;
   color: white;
+  list-style: none;
+  max-width: 800px;
+  background-color: rgb(58, 57, 57);
+  border-radius: 75px;
+}
+
+.about__list {
+  padding: 10px;
 }

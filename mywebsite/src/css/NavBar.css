@@ -12,5 +12,8 @@
 .navbar__buttons {
  text-decoration: none;
  color: white;
+ padding: 5px;
+ background-color: rgb(58, 57, 57);
+ border-radius: 5px;
 }
 

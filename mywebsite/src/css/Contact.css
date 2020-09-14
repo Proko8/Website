@@ -1,13 +1,21 @@
 .contact{
     font-size: xx-large;
     font-weight: 700;
-    text-align: center;
-    color: white;
     margin-top: -20%;
-    list-style: none;
-    text-decoration: none;
+    color:white;
 }
 
 .contact__list {
+    list-style: none;
+    background-color: rgb(58, 57, 57);
+    text-decoration: none;
+    border-radius: 5px;
+    width: 600px;
+    margin-left: 39%;
+}
+
+.contact__links {
+    text-decoration: none;
+    color:white;
     list-style: none;
 }
