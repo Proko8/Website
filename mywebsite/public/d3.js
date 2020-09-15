@@ -5,21 +5,6 @@ const svg = pieces
   .attr("height", "1080px")
   .attr("width", "1920px");
 
-// const svg2 = svg
-
-// const player = svg2.on("mouseover", function onClick(d) {
-//   d3.select(this)
-//     .append("image")
-//     .attr("id", "image")
-//     .attr(
-//       "xlink:href",
-//       "https://www.freeiconspng.com/uploads/star-wars-png-file-31.png0"
-//     )
-//     .attr("width", 400)
-//     .attr("height", 200)
-//     .attr("class", "my-class");
-// });
-
 function trans(input) {
   d3.selectAll(input)
     .transition()
