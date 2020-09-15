@@ -2,6 +2,9 @@
     font-size: xx-large;
     font-weight: 700;
     margin-top: -20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
     color:white;
 }
 
@@ -11,7 +14,6 @@
     text-decoration: none;
     border-radius: 5px;
     width: 600px;
-    margin-left: 39%;
 }
 
 .contact__links {

@@ -16,7 +16,7 @@ const About = () => {
         </li>
         <li className="about__list">
           My interests in computers began in 2014 when I began PC gaming, from
-          there my love of learning and tinkering, got me to begin building
+          there my love of learning and tinkering got me to begin building
           them. I became very interested in how they work, both on a software
           and hardware level. This interest led me to attending Galvanize Inc’s
           Operation Level Up Web Development Immersive program. This course
